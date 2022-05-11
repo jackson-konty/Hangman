@@ -1,0 +1,7 @@
+Welcome to hangman. The rules of the game are simple, you need to find out what the word is given a hint. To do this you will be allowed 6 incorrect guesses. These can either be single letter guesses using the pad or full word guesses using your keyboard. Once you think you have the full word click submit!
+
+Streaks: In the top left corner of your game window, you will see a streak counter, this is the number of words you have guessed correctly in a row. The goal is to get a streak as high as you can.
+
+Difficulty: There are four difficulty options. Easy, medium, hard, and open. Easy, medium, and hard scale up in difficulty while open takes from all difficulty levels.
+
+Hints: You can choose what type of hint you would like. Definition will be the dictionary definition of the word, and context will be a fill in the blank.
